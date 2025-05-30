@@ -1,4 +1,0 @@
-原典画像公開者一覧
-- 日本古典籍データセット（国文学研究資料館・ROIS-DS人文学オープンデータ共同利用センター） http://codh.rois.ac.jp/pmjt/
-- 慶應義塾大学メディアセンターデジタルコレクション（慶應義塾大学） http://dcollections.lib.keio.ac.jp/
-- 京都大学貴重資料デジタルアーカイブ（京都大学附属図書館） https://rmda.kulib.kyoto-u.ac.jp/
